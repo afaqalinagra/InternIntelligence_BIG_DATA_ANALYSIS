@@ -1,0 +1,10 @@
+{
+  "total_records": 21165,
+  "model_accuracy": 1.0,
+  "covid_cases": 3616,
+  "normal_cases": 10192,
+  "cluster_count": 4,
+  "feature_count": 6,
+  "processing_time": "Real-time analysis",
+  "platform": "Apache Spark on Google Colab"
+}

@@ -1,0 +1,5 @@
+prediction,diagnosis,count
+0,Viral_Pneumonia,1345
+1,COVID-19,3616
+2,Normal,10192
+3,Lung_Opacity,6012
